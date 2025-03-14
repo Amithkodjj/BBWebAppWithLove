@@ -54,19 +54,16 @@ Here’s a screenshot of the deployment process:
 Check out these screenshots to see **BBWebAppMultiUseBot** in action:
 
 ### Mines Game
-![Mines Game](https://i.ibb.co/your-mines-image.png)
+![Mines Game](https://i.ibb.co/KzpkQnN0/Screenshot-20250314-160012-cropped.png)
 
 ### Tic-Tac-Toe Game
-![Tic-Tac-Toe Game](https://i.ibb.co/your-tictactoe-image.png)
+![Tic-Tac-Toe Game](https://i.ibb.co/Fb7hKxpw/Screenshot-20250314-160033-cropped.png)
 
 ### Blackjack Game
-![Blackjack Game](https://i.ibb.co/your-blackjack-image.png)
+![Blackjack Game](https://i.ibb.co/RGTwcGmx/Screenshot-20250314-155936-cropped.png)
 
 ### Calculator
-![Calculator](https://i.ibb.co/your-calculator-image.png)
-
-### Secret Page
-![Secret Page](https://i.ibb.co/your-secret-page-image.png)
+![Calculator](https://i.ibb.co/MDh2YgB5/Screenshot-20250314-160052-cropped.png)
 
 ---
 
@@ -78,9 +75,6 @@ Check out these screenshots to see **BBWebAppMultiUseBot** in action:
 We welcome contributions from the community! If you have any ideas, suggestions, or bug reports, feel free to:
 1. **Open an Issue**: Let us know what you think!
 2. **Submit a Pull Request**: Help us make **BBWebAppMultiUseBot** even better!
-
-### 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ### 💖 Made with Love
 **BBWebAppMultiUseBot** was created with ❤️ by [Amithkodjj](https://github.com/Amithkodjj). We hope you enjoy using it as much as we enjoyed building it! 🎉
