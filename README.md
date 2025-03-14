@@ -10,7 +10,7 @@
 
 ## 🚀 **About the Project**
 
-**BBWebAppMultiUseBot** is a versatile and fun web application designed to bring joy and utility to your life! Whether you're here to play games, calculate, or uncover secrets, this app has something for everyone. Built with ❤️ and packed with features, it’s your one-stop destination for entertainment and productivity.
+**BBWebAppMultiUseBot** is a versatile and fun web application designed to bring joy and utility to your life! Whether you're here to play games, calculate, or uncover secrets, this Webapp Bot has something for everyone. Built with ❤️ and packed with features, it’s your one-stop destination for entertainment and productivity.
 
 ---
 
